@@ -1,0 +1,12 @@
+Source,Indicator,Indicator Plain Language
+Biological,NCCA_BI_Status,Benthic Index
+Sediment,NCCA_SCI_Status,Sediment Contaminants
+Sediment,NCCA_TOX_Status,Sediment Toxicity
+Sediment,NCCA_SQI_Status,Sediment Quality Index
+Water,Water_Quality_Index,Water Quality Index
+Water,Surface_Chlorophyll,Chlorophyll a
+Water,Surface_DIN,Nitrogen
+Water,Bottom_DO,Dissolved Oxygen
+Water,Water_Clarity,Water Clarity
+Water,Surface_DIP,Phosphorus
+Eco-Fish,Fish_Tissue_Status,Fish Quality Index

@@ -1,0 +1,21 @@
+Type.Old,Subpopulation.Old,Type,Subpopulation,Subpopulation.Plain.Language,Aggregation
+Coastal,US Coastal,National,National,National,National
+Region,Gulf,NCCA_Region,Gulf,Gulf,NCCA_Region--Gulf
+Region,Northeast,NCCA_Region,Northeast,Northeast,NCCA_Region--Northeast
+Region,Southeast,NCCA_Region,Southeast,Southeast,NCCA_Region--Southeast
+Region,West,NCCA_Region,West,West,NCCA_Region--West
+,,NCCA_Region,Great Lakes,Great Lakes,NCCA_Region--Great Lakes
+,,Great_Lake,Lake Erie,Lake Erie,Great_Lake--Lake Erie
+,,Great_Lake,Lake Huron,Lake Huron,Great_Lake--Lake Huron
+,,Great_Lake,Lake Michigan,Lake Michigan,Great_Lake--Lake Michigan
+,,Great_Lake,Lake Ontario,Lake Ontario,Great_Lake--Lake Ontario
+,,Great_Lake,Lake Superior,Lake Superior,Great_Lake--Lake Superior
+,,Chesapeake Bay,Chesapeake Bay,Chesapeake Bay,Chesapeake_Bay
+Region,EPA_REG_1,EPA_Region,1,EPA Region 1,Std_Fed_Regions--Region_1
+Region,EPA_REG_2,EPA_Region,2,EPA Region 2,Std_Fed_Regions--Region_2
+Region,EPA_REG_3,EPA_Region,3,EPA Region 3,Std_Fed_Regions--Region_3
+Region,EPA_REG_4,EPA_Region,4,EPA Region 4,Std_Fed_Regions--Region_4
+,,EPA_Region,5,EPA Region 5,Std_Fed_Regions--Region_5
+Region,EPA_REG_6,EPA_Region,6,EPA Region 6,Std_Fed_Regions--Region_6
+Region,EPA_REG_9,EPA_Region,9,EPA Region 9,Std_Fed_Regions--Region_9
+Region,EPA_REG_10,EPA_Region,10,EPA Region 10,Std_Fed_Regions--Region_10
